@@ -1,3 +1,7 @@
+
+
+
+
 h1{
     color:red;
     font-family: Helvetica;
@@ -5,8 +9,10 @@ h1{
 li{
     font-size: 20px;
     font-family: Helvetica;
-}
-#theFirstParagraph{
-    color: darkred;
 
 }
+#theFirstParagraph{
+    color: red;
+
+}
+

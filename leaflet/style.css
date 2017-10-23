@@ -1,0 +1,25 @@
+
+#mapid {
+    width: 800px;
+    height: 800px;
+}
+
+.info-header{
+    color:pink;
+
+
+}
+
+.layerButton{
+    padding: 5px;
+    background-color:orange;
+    color:black;
+    font-size:22px;
+    width:auto;
+    height:auto;
+    position: absolute;
+    cursor:pointer;
+    right:15px;
+    top:20px;
+}
+

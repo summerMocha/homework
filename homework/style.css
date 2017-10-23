@@ -1,0 +1,48 @@
+/*.shape{*/
+    /*fill: #f7b239;"*/
+/*}*/
+
+/*.path{*/
+    /*fill: #e09b2d;"*/
+/*}*/
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 4em;
+    font-family: 'lato', sans-serif;
+    font-size: 12pt;
+    color: black;
+    background-color: hsl(0, 0%, 85%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+svg {
+    background-color: hsl(0,10%,90%);
+    font-size: 11pt;
+}
+
+
+.horizontal-bar {
+    width: 1000px;
+    display: flex;
+    padding: 1em;
+    justify-content: space-around;
+    justify-self: stretch;
+    font-size: 9pt;
+    color: pink;
+}
+.top {
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.footnote {
+
+}
