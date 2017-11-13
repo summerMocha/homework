@@ -10,16 +10,67 @@
 
 }
 
-.layerButton{
+/*.layerButton1{*/
+    /*padding: 5px;*/
+    /*background-color:orange;*/
+    /*color:black;*/
+    /*font-size:22px;*/
+    /*width:auto;*/
+    /*height:auto;*/
+    /*position: absolute;*/
+    /*cursor:pointer;*/
+    /*right:15px;*/
+    /*top:20px;*/
+/*}*/
+
+.layerButton1{
     padding: 5px;
     background-color:orange;
     color:black;
     font-size:22px;
-    width:auto;
-    height:auto;
+    width: 150px;
+    height:150px;
     position: absolute;
     cursor:pointer;
     right:15px;
-    top:20px;
+    top:5px;
+}
+
+.layerButton2{
+    padding: 5px;
+    background-color:green;
+    color:black;
+    font-size:22px;
+    width:150px;
+    height:150px;
+    position: absolute;
+    cursor:pointer;
+    right:15px;
+    top:180px;
+}
+
+.layerButton3{
+    padding: 5px;
+    background-color:crimson;
+    color:black;
+    font-size:22px;
+    width:150px;
+    height:150px;
+    position: absolute;
+    cursor:pointer;
+    right:15px;
+    top:360px;
+}
+.layerButton4{
+    padding: 5px;
+    background-color:darkslateblue;
+    color:black;
+    font-size:22px;
+    width:150px;
+    height:150px;
+    position: absolute;
+    cursor:pointer;
+    right:15px;
+    top:540px;
 }
 

@@ -1,0 +1,4620 @@
+{
+    "version": "5.2",
+    "voyantVersion": "2.4",
+    "voyantBuild": "M3pr3",
+    "duration": 8,
+    "corpusTerms": {
+    "total": 419,
+        "terms": [
+        {
+            "term": "gun",
+            "inDocumentsCount": 1,
+            "rawFreq": 7,
+            "relativeFreq": 0.006641366,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.008413462
+            ]
+        },
+        {
+            "term": "trump",
+            "inDocumentsCount": 1,
+            "rawFreq": 7,
+            "relativeFreq": 0.006641366,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.008413462
+            ]
+        },
+        {
+            "term": "new",
+            "inDocumentsCount": 1,
+            "rawFreq": 6,
+            "relativeFreq": 0.0056926,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0072115385
+            ]
+        },
+        {
+            "term": "best",
+            "inDocumentsCount": 1,
+            "rawFreq": 5,
+            "relativeFreq": 0.004743833,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0060096155
+            ]
+        },
+        {
+            "term": "age",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "america",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "â",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "country",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "health",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "like",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "shootings",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "u.s",
+            "inDocumentsCount": 1,
+            "rawFreq": 4,
+            "relativeFreq": 0.0037950664,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0048076925
+            ]
+        },
+        {
+            "term": "america's",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "behind",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "care",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "far",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "hip",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "history",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "hop",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "mass",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "news",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "players",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "police",
+            "inDocumentsCount": 1,
+            "rawFreq": 3,
+            "relativeFreq": 0.0028463,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0036057692
+            ]
+        },
+        {
+            "term": "big",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "biles",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "black",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "changing",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "chart",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "charts",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "cities",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "climate",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "coming",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "death",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "deep",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "digital",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "fine",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "guide",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "gymnast",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "hereâ",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "hurricane",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "it's",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "killings",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "language",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "line",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "long",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "makes",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "mapping",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "mystery",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "nfl",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "north",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "schools",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "shooting",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "simone",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "stake",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "starck",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "storm",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "story",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "tampa",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "tracking",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "travel",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "truth",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "world's",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "years",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "york",
+            "inDocumentsCount": 1,
+            "rawFreq": 2,
+            "relativeFreq": 0.0018975332,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0024038462
+            ]
+        },
+        {
+            "term": "1,516",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "1,735",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "111",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "827",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "able",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "abortion",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "actually",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "affordable",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "africa",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "afro",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "aftermath",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "agree",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "ali",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "allergy",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "amazon",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "anthem",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "arab",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "aren't",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "artists",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "author",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "away",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "babies",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "barriers",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "bay",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "bay's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "behaviors",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "bill",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "blood",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "bloodshed",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "blur",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "boost",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "brain",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "brains",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "brazilian",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "broader",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "broadway",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "bugs",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "burger",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "busy",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "california's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "calls",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cancer",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "capitals",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "carbon",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cassini",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cellar",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "change",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "chat",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "chicago",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "chicago's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "china",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "chinese",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cincinnati",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "city",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "claims",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cocktails",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "comedy",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "comics",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "compares",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "complaining",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "complete",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "congress",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "consols",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cookies",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cozy",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "crisis",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "cte",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "culture",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "database",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "days",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "dead",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "deadly",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "dear",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "deaths",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "decade",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "deductibles",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "dentist",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "desperate",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "detainees",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "devides",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "digging",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "disabled",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "dollar",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "donald",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "dope",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "draw",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "drug",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "easy",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "eclipse",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "effect",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "entrepreneurs",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "epidemic",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "equity",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "evolution",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "experts",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fake",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fall",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fans",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fashion",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "favorite",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fear",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "feed",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "female",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fifty",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "film",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "finally",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fix",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "flint",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "flooding",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "forgot",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "founders",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "freddie",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "fully",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "futurism",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "galapagos",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "game",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "games",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "gay",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "general",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "gets",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "getting",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "girl",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "gold",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "good",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "goodness",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "gray's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "greenland",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "grooming",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "group",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "guys",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "hamilton",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "harvey",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "harveyâ",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "headline",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "healthy",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "heat",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "heroin",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "higher",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "historic",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "hit",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "hits",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "hold",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "homan",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "home",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "homes",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "hqfor",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "human",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "identity",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "ignored",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "illustrated",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "immortal",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "impact",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "information",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "interactive",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "ireland",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "islands",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "issue",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "just",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "killers",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "knee",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "kobe",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "korea",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "label",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "lake",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "las",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "law",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "laws",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "lean",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "life",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "likely",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "lines",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "literature",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "live",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "lives",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "living",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "look",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "looks",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "loving",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "madman",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "makers",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "man",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "maps",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "master",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "match",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "math",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "matter",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "mean",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "melting",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "men",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "millenials",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "minute",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "model",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "mosul",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "mother",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "muhammed",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "musical",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "n.f.l",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "navigator",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "nba",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "nevada",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "night",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "non",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "northern",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "notebooks",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "odd",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "old",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "open",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "operated",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "oral",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "originality",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "owning",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "paid",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "painted",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "path",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "patient",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "people",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "performance",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "philippe",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "picked",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "places",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "plan",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "plays",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "policies",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "politically",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "popular",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "portrait",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "poster",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "power",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "president's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "prevent",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "private",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "probing",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "problem",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "public",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "questions",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "raising",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "ranked",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rap's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rapper",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "reality",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "record",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "recovery",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "reflection",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rendezvous",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rescues",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rhymes",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rhythm",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "richard",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rivers",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "robot",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rogue",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "ruins",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "ruled",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "rural",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "russia",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "safe",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "saturn",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "saw",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "scenes",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "school",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "science",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "scout",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "selves",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sensation",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "seven",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sexism",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "shopping",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "shot",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "shots",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sibling",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sick",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "similar",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sins",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sites",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sky",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "small",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sorted",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "spring",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "square",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "stars",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "started",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "state",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "stereotypes",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "stop",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "stories",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "strip",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "studied",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "style",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "success",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "supposed",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "sweep",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "tail",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "taking",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "talk",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "talking",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "tap",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "teamâ",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "tears",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "theory",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "thought",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "thousands",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "thunder",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "time",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "timeline",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "today",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "today's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "tone",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "took",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "tops",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "tour",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "town",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "trek",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "tribute",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "truly",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "trust",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "turned",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "twice",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "unfolded",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "unicorn",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "uniforms",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "unique",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "unquestioned",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "untold",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "upside",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "uses",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "vegas",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "victims",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "video",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "views",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "vincent",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "violence",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "vision",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "voters",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "walls",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "walmart",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "warriors",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "water",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "weapons",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "week",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "weekend",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "wheel",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "whites",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "who's",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "wildfires",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "wine",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "wizards",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "women",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "won't",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "world",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "worst",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "writer",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "y'all",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "youse",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "youtube",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        },
+        {
+            "term": "œjustifiableâ",
+            "inDocumentsCount": 1,
+            "rawFreq": 1,
+            "relativeFreq": 9.487666E-4,
+            "relativePeakedness": NaN,
+            "relativeSkewness": NaN,
+            "distributions": [
+                0.0012019231
+            ]
+        }
+    ]
+}
+}
